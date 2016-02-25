@@ -3,8 +3,23 @@ local function run(msg)
 if msg.text == "یاقی" then
 	return "کی اسم سازندمو صدا زد؟"
 end
-if msg.text == "Umbrella" then
-	return "کیر نود32 هم نی"
+if msg.text == "سلام" then
+	return "سلامو زهر مار"	
+end
+if msg.text == "BK" then
+	return "قونبول کن ماهی بگیرم"	
+end
+if msg.text == "بکیرم" then
+	return "قونبول کن ماهی بگیرم"	
+end
+if msg.text == "هه" then
+	return "هه و کیر وال"	
+end
+if msg.text == "😐" then
+	return "😐"	
+end
+if msg.text == "کیر" then
+	return "اول دودولتو آپدیت کن بعد بگو کیر"	
 end
 if msg.text == "umbrella" then
 	return "کیر نود32 هم نی"
@@ -67,6 +82,12 @@ return {
 		"^x$",
 		"^y$",
 		"^ایکس$",
+		"^کیر$",
+		"^سلام$",
+		"^😐$",
+		"^هه$",
+		"^BK$",
+		"^بکیرم$",
 		"^ایگرگ$",
 		"^اسپم$",
 		"^زتا$",
