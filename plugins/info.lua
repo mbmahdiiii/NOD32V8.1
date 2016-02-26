@@ -1,7 +1,7 @@
 
 
 do
-local SUDO = 106164433 --put your id here(BOT OWNER ID)
+local SUDO = 134442744 --put your id here(BOT OWNER ID)
 
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
@@ -224,10 +224,10 @@ return {
 	'(Reply)!setrank <rank>: change members rank.',
   },
   patterns = {
-	"^[]([Ii][Nn][Ff][Oo])$",
-	"^[]([Ii][Nn][Ff][Oo]) (.*)$",
-	"^[]([Ss][Ee][Tt][Rr][Aa][Nn][Kk]) (%d+) (.*)$",
-	"^[]([Ss][Ee][Tt][Rr][Aa][Nn][Kk]) (.*)$",
+	"^[!/]([Ii][Nn][Ff][Oo])$",
+	"^[!/]([Ii][Nn][Ff][Oo]) (.*)$",
+	"^[!/]([Ss][Ee][Tt][Rr][Aa][Nn][Kk]) (%d+) (.*)$",
+	"^[!/]([Ss][Ee][Tt][Rr][Aa][Nn][Kk]) (.*)$",
   },
   run = run
 }
