@@ -28,7 +28,7 @@ if msg.text == "خخخخ" then
 	return "یعنی چی؟خخخخخخ :|"	
 end
 if msg.text == "plugin" then
-	return "Plugins has bin nemoded"	
+	return "Plugins has been nemoded"	
 end
 if msg.text == "bye" then
 	return "رفتی؟ حوالت به چراغ نفتی"	
@@ -52,7 +52,7 @@ if msg.text == "هه" then
 	return "هه و کیر وال"	
 end
 if msg.text == "😐" then
-	return "😐"	
+	return "پایینی مفتی میده بکنیم😂👇"	
 end
 if msg.text == "کیر" then
 	return "اول دودولتو آپدیت کن بعد بگو کیر"	
