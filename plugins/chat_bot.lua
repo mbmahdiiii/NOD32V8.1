@@ -3,9 +3,6 @@ local function run(msg)
 if msg.text == "یاقی" then
 	return "کی اسم سازندمو صدا زد؟"
 end
-if msg.text == "سلام" then
-	return "سلامو زهر مار"	
-end
 if msg.text == "ریپورتم" then
 	return "به کیر اکبر قصاب که ریپورتی"	
 end
