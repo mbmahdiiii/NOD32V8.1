@@ -15,7 +15,7 @@ chat_del_user('chat#id'..msg.to.id, 'user#id'..msg.from.id, ok_cb, true)
     local msgads = 'ForbiddenAdText'
    local receiver = msg.to.id
     send_large_msg('chat#id'..receiver, msg.."\n", ok_cb, false)
-  
+	
       end
    end
 end
@@ -26,10 +26,11 @@ return {patterns = {
 "[Tt][Ee][Ll][Ee][Gg][Rr][Aa][Mm].[Mm][Ee]/[Jj][Oo][Ii][Nn][Cc][Hh][Aa][Tt]/",
 "[Tt][Ee][Ll][Ee][Gg][Rr][Aa][Mm].[Mm][Ee]/[Jj][Oo][Ii][Nn][Cc][Hh][Aa][Tt]/",
 "[Hh][Tt][Tt][Pp]://",
-"[Ww][Ww][Ww]:"
+"[Ww][Ww][Ww]:",
+"عضویت",
 }, run = run}
 
-—Copyright and edit; @behroozyaghi
-—Persian Translate; @behroozyaghi
-—ch : @nod32team
-—کپی بدون ذکر منبع حرام است
+--Copyright and edit; @behroozyaghi
+--Persian Translate; @behroozyaghi
+--ch : @nod32team
+--کپی بدون ذکر منبع حرام است
