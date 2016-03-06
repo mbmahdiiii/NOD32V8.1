@@ -1,10 +1,10 @@
 
 local function run(msg)
-if msg.text == "یاقی" then
+if msg.text == "ممد" then
 	return "کی اسم سازندمو صدا زد؟"
 end
 if msg.text == "ریپورتم" then
-	return "به کیر اکبر قصاب که ریپورتی"	
+	return "عخییی"	
 end
 if msg.text == "کیری مقام" then
 	return "تخمی مقام 😑"	
@@ -13,22 +13,22 @@ if msg.text == "خوبه" then
 	return "شایدم عالیه"	
 end
 if msg.text == "BK" then
-	return "قونبول کن ماهی بگیرم"	
+	return "BT k BK"	
 end
 if msg.text == "BT" then
-	return "بپر رو کیر لختم"	
+	return "BK k BT"	
 end
 if msg.text == "خخخخخ" then
-	return "زهرمارو خخخخخ :|"	
+	return ":|"	
 end
 if msg.text == "خخخخ" then
-	return "یعنی چی؟خخخخخخ :|"	
+	return "خخخخ:|"	
 end
-if msg.text == "plugin" then
-	return "Plugins has been nemoded"	
+if msg.text == "سلام کن به ممد" then
+	return "سلام ممد کونده"	
 end
-if msg.text == "bye" then
-	return "رفتی؟ حوالت به چراغ نفتی"	
+if msg.text == "سلام کن به الیکس" then
+	return "سلام ممه ای مقام"	
 end
 if msg.text == "خخخ" then
 	return "نخند عه!!"	
@@ -37,7 +37,7 @@ if msg.text == "خخ" then
 	return "مرض خخخخخخخخ چرا میخندی؟:|"	
 end
 if msg.text == "خوش اومدی " then
-	return "خوش اومدی کله کیری "	
+	return " خوش اومدی :| "	
 end
 if msg.text == "BT" then
 	return "بپر رو کیر لختم"	
@@ -58,10 +58,10 @@ if msg.text == "نود32" then
 	return "hum?"
 end
 if msg.text == "اسپم" then
-	return "کس ننت میذارم بخای اسپم کنی"	
+	return ":|"
 end
-if msg.text == "زتا" then
-	return "کس ننش بگو مرسی"	
+if msg.text == "/spam" then
+	return "میخوریش ؟"	
 end
 if msg.text == "ایکس ایگرگ" then
 	return "ایکس ایگرگو همرا ننت گاییدم ابمم ریختم روش"	
@@ -105,7 +105,7 @@ return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
-		"^یاقی$",
+		"^ممد$",
 		"^[Bb]ot$",
 		"^[Uu]mbrella$",
 		"^بای$",
