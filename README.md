@@ -10,7 +10,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/BH-YAGHI/NOD32-BOT.git
+git clone https://github.com/Whitewolf2/NOD32V8.1.git
 
 cd NOD32-BOT
 
@@ -46,9 +46,9 @@ Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 HOW DO MAKE UPDATE THIS FILE?
 
-see this git https://github.com/BH-YAGHI/tg.git
+see this git https://github.com/Whitewolf2/NOD32V8.1.git
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+creator :  : https://telegram.me/ScottmcCall1IR
 
-developer : https://telegram.me/Behroozyaghi
+sudo 1 : https://telegram.me/elixBOY
