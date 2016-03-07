@@ -216,7 +216,7 @@ local function show_group_settingsmod(msg, data, target)
     	leave_ban = data[tostring(msg.to.id)]['settings']['leave_ban']
    	end
   local settings = data[tostring(target)]['settings']
-  local text = "•••Group settings⚙\n___________________\nkick group join with link :"..settings.lock_join.."\n___________________\nLock group fosh : "..settings.antitag.."\n___________________\nLock group ads : "..settings.antilink.."\n___________________\nLock group name : "..settings.lock_name.."\n___________________\nLock group photo : "..settings.lock_photo.."\n___________________\nkick new member : "..settings.lock_member.."\n___________________\nLock group leave ban : "..leave_ban.."\n___________________\nflood set on : "..NUM_MSG_MAX.."\n___________________\nBot Security : "..bots_protection.." eset nod 32 v8.2  "
+  local text = "😎 Group settings 😎\n___________________\nkick group join with link :"..settings.lock_join.."\n___________________\nLock group fosh : "..settings.antitag.."\n___________________\nLock group ads : "..settings.antilink.."\n___________________\nLock group name : "..settings.lock_name.."\n___________________\nLock group photo : "..settings.lock_photo.."\n___________________\nkick new member : "..settings.lock_member.."\n___________________\nLock group leave ban : "..leave_ban.."\n___________________\nflood set on : "..NUM_MSG_MAX.."\n___________________\nBot Security : "..bots_protection.."\n___________________\n eset nod 32 v8.2  "
   return text
 end
 
