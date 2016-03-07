@@ -512,14 +512,12 @@ NOD32 Commands list :
 !feedback (text)
 ارسال نظرات به سازنده
 
-you can use both "/" and "!" 
-.شما میتوانید از ! و / استفاده کنید
 
-Developer: @BehroozYaghi
-توسعه دهنده
+Developer: @ScottmcCall1IR 
+سازنده
 
-channel: @Nod32team
-کانال ما
+sudo : @elixBOY
+سودو و ادیتور ربات
 
 G00D LUCK ^_^
 ]]
