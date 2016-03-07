@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8.2'.. VERSION .. [[ 
+  return 'eset nod 32 v8.2 '.. VERSION .. [[ 
  
   Developer : @ScottmcCall1IR 
   
